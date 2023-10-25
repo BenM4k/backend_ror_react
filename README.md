@@ -1,12 +1,10 @@
-<<<<<<< HEAD
 # backend_ror_react
-=======
+
 <a name="readme-top"></a>
 
 <div align="center">
   <!-- You are encouraged to replace this logo with your own! Otherwise you can also remove it. -->
-  <h3><b>Rails React App</b></h3>
-
+  <h3><b>Rails React Back-End App</b></h3>
 </div>
 
 <!-- TABLE OF CONTENTS -->
@@ -31,10 +29,10 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 Rails React App <a name="about-project"></a>
+# 📖 Rails React Back-End App <a name="about-project"></a>
 
 
-**Rails React App** is a an application that helps you catch up with best practices on React/Redux and Ruby on Rails.
+**Rails React Back-End App** is a an application that helps you catch up with best practices on React/Redux and Ruby on Rails.  This folder contain the Backend version while [this](https://github.com/BenM4k/backend_ror_react.git) contain the frontend.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -204,4 +202,3 @@ I would like to thank Microverse for the idea for this project.
 This project is [MIT](./LICENSE) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
->>>>>>> 5e1d412 (backend setup)
