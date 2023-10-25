@@ -31,7 +31,7 @@
 # 📖 Rails React App <a name="about-project"></a>
 
 
-**Rails React App** is a an application that helps you catch up with best practices on React/Redux and Ruby on Rails.
+**Rails React App** is a an application that helps you catch up with best practices on React/Redux and Ruby on Rails. Get the React part [here](https://github.com/BenM4k/frontend_ror_react.git)
 
 ## 🛠 Built With <a name="built-with"></a>
 
